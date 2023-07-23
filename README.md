@@ -14,5 +14,3 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,git,)](https://skillicons.dev)
 
 </div>
-
-![snake gif](https://github.com/KlevissonWeskley/KlevissonWeskley/blob/output/github-contribution-grid-snake.svg) 
