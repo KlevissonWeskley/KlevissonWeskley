@@ -1,6 +1,6 @@
 ## Hello world!
 
-- 🌱 Focado no ReactJs 
+- 🌱 Focado no NodeJs 
 - 📫 Contate-me no email: klevissonweskley13@gmail.com
 
 <div align="center">
@@ -11,6 +11,6 @@
 
 <div style="display: inline_block" align="center" ><br>
  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,git,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,node,express,git,)](https://skillicons.dev)
 
 </div>
