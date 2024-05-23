@@ -11,6 +11,6 @@
 
 <div style="display: inline_block" align="center" ><br>
  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,prisma,csharp,docker,git,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,prisma,docker,git,)](https://skillicons.dev)
 
 </div>
