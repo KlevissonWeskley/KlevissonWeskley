@@ -1,6 +1,6 @@
 ## Hello world!
 
-- 🌱 Focado no NodeJs 
+- 🌱 Focado no Back End 
 - 📫 Contate-me no email: klevissonweskley13@gmail.com
 
 <div align="center">
